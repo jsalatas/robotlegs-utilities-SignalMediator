@@ -1,5 +1,14 @@
 Forked from https://github.com/Stray/robotlegs-utilities-SignalMediator
 
+In addition to the original project, it supports SignalModuleMediator
+see https://github.com/joelhooks/robotlegs-utilities-Modular 
+
+
+
+
+
+
+
 **A Signal equivalent for the EventMap**
 
 The robotlegs `Mediator` makes use of the `EventMap` to help with automatic clean-up when the mediator is removed.
