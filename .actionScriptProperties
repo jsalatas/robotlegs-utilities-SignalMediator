@@ -11,7 +11,12 @@
       </libraryPathEntry>
       <libraryPathEntry kind="1" linkType="1" path="lib"/>
     </libraryPath>
-    <sourceAttachmentPath/>
+    <sourceAttachmentPath>
+      <sourceAttachmentPathEntry kind="3" linkType="1" path="C:/workspace/robotlegs-utilities-SignalMediator/lib/as3-signals-v0.9.swc" sourcepath="C:/actionscript/as3-signals-v0.9/src" useDefaultLinkType="false"/>
+      <sourceAttachmentPathEntry kind="3" linkType="1" path="C:/workspace/robotlegs-utilities-SignalMediator/lib/robotlegs-framework-v1.5.2.swc" sourcepath="C:/actionscript/robotlegs-framework-v1.5.2/src" useDefaultLinkType="false"/>
+      <sourceAttachmentPathEntry kind="3" linkType="1" path="C:/workspace/robotlegs-utilities-SignalMediator/lib/robotlegs-utilities-Modular-v0.5.3.swc" sourcepath="C:/actionscript/robotlegs-utilities-Modular-v0.5.3/src" useDefaultLinkType="false"/>
+      <sourceAttachmentPathEntry kind="3" linkType="1" path="C:/workspace/robotlegs-utilities-SignalMediator/lib/SwiftSuspenders-v1.6.0.swc" sourcepath="C:/actionscript/SwiftSuspenders-v1.6.0/src" useDefaultLinkType="false"/>
+    </sourceAttachmentPath>
   </compiler>
   <applications>
     <application path="robotlegs-utilities-SignalMediator.as"/>
